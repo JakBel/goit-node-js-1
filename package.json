@@ -1,0 +1,29 @@
+{
+  "name": "goit-node-js-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakBel/goit-node-js-1.git"
+  },
+  "author": "Jakub Bełtowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakBel/goit-node-js-1/issues"
+  },
+  "homepage": "https://github.com/JakBel/goit-node-js-1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^9.1.0",
+    "nanoid": "^3.3.2",
+    "yargs": "^17.4.0"
+  }
+}
